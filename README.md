@@ -1,4 +1,6 @@
-# About absolootly/docker-postgresql
+[![](https://badge.imagelayers.io/absolootly/docker-postgresql:latest.svg)](https://imagelayers.io/?images=absolootly/docker-postgresql:latest 'Get your own badge on imagelayers.io')
+
+# absolootly/docker-postgresql
 
 - [Introduction](#introduction)
 - [Getting started](#getting-started)
@@ -24,7 +26,7 @@
 
 # Introduction
 
-This docker image is derived from [absolootly](https://hub.docker.com/r/absolootly/docker-postgresql/) and remodified to install on a flattened ubuntu 15.10 image on [docker hub](https://hub.docker.com/r/absolootly/ubuntu15.10/).
+This docker image is derived from [sameersbn](https://hub.docker.com/r/sameersbn/postgresql/) and remodified to install on a flattened ubuntu 15.10 image on [docker hub](https://hub.docker.com/r/absolootly/ubuntu15.10/).
 
 PostgreSQL is an object-relational database management system (ORDBMS) with an emphasis on extensibility and standards-compliance [[source](https://en.wikipedia.org/wiki/PostgreSQL)].
 
